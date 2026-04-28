@@ -1,5 +1,3 @@
-# COMP110 Data Project
-
 ## Project Summary
 
 My analysis was to explore if live-streaming in-person lectures could create value for COMP110 students. The data overall suggests that support for live-streaming lectures is moderate to high. Many students showed a positive response toward live-streaming, which indicates that students place high value on flexibility and accessibility for in-person lectures.
